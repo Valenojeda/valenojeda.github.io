@@ -1,0 +1,49 @@
+body{
+    background-image: url(/img/imagen.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    text-align: center;
+    background-color: black;
+}
+
+.nombre{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 200%;
+    
+    
+
+}
+
+#presentación{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 75%;
+
+}
+
+a{
+    color: rgb(99, 191, 221)
+}
+
+li{
+    color:  white;
+}
+
+h2, h3, h4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+
+.contenido{
+    text-align: center;
+}
+
+#contacto{
+    font-size: 100%;
+}
